@@ -6,4 +6,4 @@ function updatePlaylist (playlist, artistname,songtitle){
 
 function removeFromPlaylist (playlist, artistname) 
 
-delete removeFromPlaylist
+object.aasign
